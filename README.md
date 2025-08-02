@@ -1,16 +1,9 @@
 # save_money
 
-A new Flutter project.
+Flutter project
 
-## Getting Started
+# Here is UI APP
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/43c2dced-0936-41ff-acda-5a7cb612f2ce" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/9dd74ecd-b13d-4483-9de2-aef07ddf21b4" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/6ad2f39f-98e0-4532-8e15-62e3475c8efc" />
