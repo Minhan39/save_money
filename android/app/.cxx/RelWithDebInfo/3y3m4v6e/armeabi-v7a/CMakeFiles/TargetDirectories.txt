@@ -1,0 +1,2 @@
+C:/Users/MINHANPC/Desktop/save_money/android/app/.cxx/RelWithDebInfo/3y3m4v6e/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/MINHANPC/Desktop/save_money/android/app/.cxx/RelWithDebInfo/3y3m4v6e/armeabi-v7a/CMakeFiles/rebuild_cache.dir
